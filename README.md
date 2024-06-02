@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Pal</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate and enthusiastic data scientist from India</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate and enthusiastic Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hustler-15&label=Profile%20views&color=0e75b6&style=flat" alt="hustler-15" /> </p>
